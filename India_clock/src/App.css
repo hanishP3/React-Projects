@@ -1,0 +1,15 @@
+
+.Time{
+    font-size: x-large;
+    text-align: center;
+}
+h1,h2{
+    text-align: center;
+}
+h1{
+    margin: 10px;
+    margin-bottom: 20px;
+}
+h2{
+    margin: 15px;
+}

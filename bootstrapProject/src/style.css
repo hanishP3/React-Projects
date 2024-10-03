@@ -1,0 +1,12 @@
+h1{
+    font-weight: 800;
+    margin: 10px;
+    margin-bottom: 20px;
+    background-color: rgb(179, 245, 245);
+}
+.component{
+    text-align: left;
+}
+.componentMain{
+    width: 100%;
+}
