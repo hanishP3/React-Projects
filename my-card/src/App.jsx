@@ -21,7 +21,7 @@ function App() {
             <li>Git and Github</li>
           </div>
           <div className="links">
-            <ul><li><a href="https://www.linkedin.com/in/hanish-p-03h/" target="blank" rel="noreferrer">Linkdin</a></li></ul>
+            <ul><li><a href="https://www.linkedin.com/in/hanish-p-03h/" target="blank" rel="noreferrer">Linkedin</a></li></ul>
             <ul><li><a href="https://github.com/hanishP3" rel="noreferrer"  target="blank">Github</a></li></ul>
             <ul><li><a href="https://x.com/hanish1dev " rel="noreferrer"  target="blank">Twitter</a></li></ul>
           </div>
